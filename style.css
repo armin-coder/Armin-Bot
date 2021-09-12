@@ -2,10 +2,8 @@ body {
   background: rgb(180, 16, 16);
 }
 p {
-  color: black;
-  background-color: black;
+  color: white;
   text-align: center;
-  text-color: #ffff
 }
 h1 {
   font-weight: bold;
